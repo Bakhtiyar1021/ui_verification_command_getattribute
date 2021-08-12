@@ -1,0 +1,2 @@
+# ui_verification_command_getattribute
+ui_verification_command_getattribute
